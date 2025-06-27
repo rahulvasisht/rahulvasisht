@@ -1,9 +1,11 @@
 ## Hi there 👋
 
+
 <!--
 **rahulvasisht/rahulvasisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![NYOL](https://github.com/user-attachments/assets/ad91efa8-ac58-4364-a847-6a43d23ac340)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
