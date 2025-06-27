@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning Dart 
 - 👯 I’m looking to collaborate on App dev
 - 🤔 I’m looking for help with Career
-- 💬 Ask me about ...
 - 📫 How to reach me: www.linkedin.com/in/rahulrvasisht
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Coding
--->
+
